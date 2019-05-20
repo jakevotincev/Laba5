@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<world>
+    <animal>
+        <name>gaga</name>
+        <height>50</height>
+        <weight>0.0</weight>
+        <width>0.0</width>
+        <color>null</color>
+        <class name="WinniePooh">
+            <iq>3.0</iq>
+        </class>
+    </animal>
+    <animal>
+        <name>Jeka</name>
+        <height>50</height>
+        <weight>50.0</weight>
+        <width>50.0</width>
+        <color>yellow
+        </color>
+        <class name="Pyatachok">
+            <iq>3.0</iq>
+        </class>
+    </animal>
+    <animal>
+        <name>abc</name>
+        <height>0</height>
+        <weight>50.0</weight>
+        <width>50.0</width>
+        <color>PINK
+        </color>
+        <class name="Pyatachok">
+            <iq>3.0</iq>
+        </class>
+    </animal>
+</world>
